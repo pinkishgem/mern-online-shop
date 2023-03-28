@@ -1,10 +1,6 @@
-# ProShop MernStack web Application  `New version sooooonnn`
+# MERN Online Shop Application
 
 > eCommerce platform built with the MERN stack & Redux.
-
-## Live Prview Project 
-- Production Link Change due to Heroku Free tire closed move Heroku to cyclic.sh
-[Demo Project](https://fancy-scarf.cyclic.app/)
 
 ## Features
 
@@ -91,4 +87,3 @@ admin@example.com (Admin)
 ali@example.com (Customer)
 123456
 ```
-[Login/Register proshop ](https://aliahmadshop.herokuapp.com/register?redirect=/)
